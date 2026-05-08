@@ -80,11 +80,11 @@ Python
 OpenAI Whisper
 FFmpeg
 ## Current Limitations
--Accuracy depends on audio quality
--Whisper Tiny model may produce rough segment boundaries
--Currently optimized for short demo clips
+- Accuracy depends on audio quality
+- Whisper Tiny model may produce rough segment boundaries
+- Currently optimized for short demo clips
 ## Future Improvements
--Add automatic language detection
--Add confidence scoring for segments
--Integrate with subtitle OCR module
--Connect with mismatch detection pipeline
+- Add automatic language detection
+- Add confidence scoring for segments
+- Integrate with subtitle OCR module
+- Connect with mismatch detection pipeline
